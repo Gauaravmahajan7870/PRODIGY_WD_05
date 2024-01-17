@@ -1,0 +1,28 @@
+/* Background styles based on weather conditions */
+.clear-sky {
+    background: linear-gradient(to bottom right, #3498db, #2ecc71);
+}
+
+.few-clouds {
+    background: linear-gradient(to bottom right, #3498db, #2980b9);
+}
+
+.clouds {
+    background: linear-gradient(to bottom right, #ecf0f1, #bdc3c7);
+}
+
+.rain {
+    background: linear-gradient(to bottom right, #3498db, #34495e);
+}
+
+.thunderstorm {
+    background: linear-gradient(to bottom right, #2c3e50, #34495e);
+}
+
+.snow {
+    background: linear-gradient(to bottom right, #ecf0f1, #ecf0f1);
+}
+
+.mist {
+    background: linear-gradient(to bottom right, #95a5a6, #bdc3c7);
+}
